@@ -50,7 +50,7 @@ L'objectif étant de scanner le plus de QR codes possibles au total des 5 robots
 
 Le travail entre les différents robots était très indépendant.
 A l'intérieur de mon groupe de 4, nous avions mis en place un système de suivi dans lequel chaque personne écrivait à la fin de la séance ce sur quoi elle avait travaillé.
-Un planning établi au préalable permettait également de déterminer lorsqu'il était nécessaire d'avancer chez soi en plus des heures imposées. 
+Un planning établi au préalable permettait également de déterminer lorsqu'il était nécessaire de travailler chez soi en plus des heures imposées. 
 Enfin, la forte diversité dans le nombre de tâches à effectuer a permis à chaque personne de travailler sur un sujet différent.
 
 
