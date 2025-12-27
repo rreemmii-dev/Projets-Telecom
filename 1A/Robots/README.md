@@ -64,4 +64,6 @@ Il aurait donc était pertinent de prendre plus de temps pour faire des comptes-
 
 Pour finir, voici l'affiche de présentation de notre robot :
 
-![Affiche](Affiche.png)
+<div align="center">
+<img src="Affiche.png" alt="Affiche" width="75%" />
+</div>
