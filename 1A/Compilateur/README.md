@@ -1,6 +1,6 @@
 # Compilateur
 
-Ce projet consistait à créer un compilateur C vers assembleur x86, en équipe de 4 étudiants.
+Ce projet consiste à créer un compilateur C vers assembleur x86, en équipe de 4 étudiants.
 
 Le langage de programmation retenu est OCaml.
 
@@ -32,16 +32,16 @@ Nous avons défini l'ensemble de notre arbre syntaxique grâce au module `Parser
 
 ### Ecriture du code Assembleur
 
-Une fois l'arbre syntaxique obtenu par le parsing, il ne reste plus qu'à le traduire en assembleur.
+Une fois l'arbre syntaxique obtenu par le parsing, il faut le traduire en assembleur.
 
-Nous avons donc dû étudier le fonctionnement de l'assembleur x86, et les diverses opérations et registres existants.
+Nous avons donc étudié le fonctionnement de l'assembleur x86, et les diverses opérations et registres existants.
 
 
 ## Organisation
 
-Le travail à réaliser lors de ce projet était relativement simple à paralléliser : le code était naturellement composé de plusieurs fonctions comme `compile_expr` (compile une expression telle que `a + b`) ou `compile_stmt` (compile un statement tel que `int x = 0;`).
+Le travail à réaliser lors de ce projet est relativement simple à paralléliser : le code est naturellement composé de plusieurs fonctions comme `compile_expr` (compile une expression telle que `a + b`) ou `compile_stmt` (compile un statement tel que `int x = 0;`).
 
-L'organisation par défaut était donc de donner à chaque élève un certains nombre de fonctions à réaliser, puis de travailler en peer-programming lorsqu'un membre du groupe était en difficulté.
+Notre organisation consistait donc à donner à chaque élève un certain nombre de fonctions à réaliser, puis à travailler en peer-programming lorsqu'un membre du groupe était en difficulté.
 
 
 ## Apprentissages
